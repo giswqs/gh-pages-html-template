@@ -1,6 +1,6 @@
 # gh-pages-html-template
 
-A template for deploying a simple HTML website to GitHub Pages
+A simple template for deploying an HTML website to GitHub Pages
 
 ## Instructions
 
